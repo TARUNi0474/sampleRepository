@@ -229,6 +229,8 @@ public class LoginFragment extends Fragment {
                 startActivityForResult(i,0);
             }
         });
+
+
         return v;
     }//end of onCreateView method
 
